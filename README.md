@@ -1,16 +1,13 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sid! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in AI and cloud technologies. My journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
+I'm a passionate about AI with a keen interest development and cloud technologies. My journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
 
 - 🔭 I’m currently working on the Minotaur Project - an AI-driven platform for personalized dialogues.
 - 🌱 I’m currently learning more about natural language processing and cloud infrastructure.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of AI.
-- 🤔 I’m looking for help with understanding complex AI algorithms.
-- 💬 Ask me about my current project, my experience with Python, or anything tech-related!
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: I love to [fun personal fact].
+- 🤔 I’m looking for help with understanding everything. The project requires complex AI algorithms.
+- 💬 Ask me about my current project, my inexperience with Python, or anything tech-related will be obvious at first!
 
 ## My GitHub Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
