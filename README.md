@@ -1,7 +1,7 @@
 # Hello, I'm Sid! 👋
 
 ## About Me
-I'm a passionate about AI with a keen interest development and cloud technologies. My journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
+I'm a passionate about AI with a keen interest to learn developing cloud technologies. My re-education journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
 
 - 🔭 I’m currently working on the Minotaur Project - an AI-driven platform for personalized dialogues.
 - 🌱 I’m currently learning more about natural language processing and cloud infrastructure.
