@@ -1,13 +1,13 @@
-# Hello, I'm Sid! 👋
+# Hello, I created Minocrisy! 👋
 
 ## About Me
-I'm a passionate about AI with a keen interest to learn developing cloud technologies. My re-education journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
+I'm curious about AI with a keen interest to learn developing cloud technologies. My re-education journey is about continuous learning and exploring the intersections of human psychology with advanced computational models.
 
-- 🔭 I’m currently working on the Minotaur Project - an AI-driven platform for personalized dialogues.
-- 🌱 I’m currently learning more about natural language processing and cloud infrastructure.
+- 🔭 I’m currently working on the M1 Project - Building an AI-driven platform for AI learning.
+- 🌱 I’m currently learning about natural language processing and google cloud infrastructure.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of AI.
 - 🤔 I’m looking for help with understanding everything. The project requires complex AI algorithms.
-- 💬 Ask me about my current project, my inexperience with Python, or anything tech-related will be obvious at first!
+- 💬 Ask me about my current project, my inexperience will be obvious!
 
 ## My GitHub Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
