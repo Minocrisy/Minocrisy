@@ -22,7 +22,7 @@ I'm curious about AI with a keen interest to learn developing cloud technologies
 <!-- Add more badges from https://shields.io/ -->
 
 ## Current Work
-I'm building an AI application that aims to revolutionize the way we interact with technology. The Minotaur Project is not just a showcase of technical skills but also a sandbox for innovative ideas in the AI space.
+I'm building an AI application that aims to revolutionize the way we interact with technology. 
 
 ## Let's Connect!
 [![LinkedIn][3.2]][3]
