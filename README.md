@@ -2,7 +2,7 @@
   <img src="https://www.minocrisy.com/logo.png" alt="Minocrisy Logo" width="150">
 </p>
 
-<h1 align="center">Hi there, I'm Sid Hayes! 👋</h1>
+<h1 align="center">Hi there, I'm Sid. 👋</h1>
 <h3 align="center">Creator of Minocrisy.com - Unlocking Potential with Open AI Tools.</h3>
 
 ---
